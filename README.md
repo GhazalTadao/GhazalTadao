@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ### 🖥 Skills
 
 - Medical Imaging
-- Deep Learning
+- Radiomics
 - Natural Language Processing
 - Machine Learning
 ### ⚙️ Tech Stack
