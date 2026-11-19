@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-- 💻 Work at [**Forschungszentrum Juelich**](https://github.com/pytopia). 
-- 🌱 I study Medical Physics. Visit PyTopia website, [Pytopia.ai](https://www.pytopia.ai), and also my [teaching material](https://github.com/pytopia).
-- 📫 How to reach me: hejazizo@ualberta.ca
+- 💻 Work at [**Forschungszentrum Juelich**]
+- 🌱 I study Medical Physics.
+
 
 
 ### 🖥 Skills
